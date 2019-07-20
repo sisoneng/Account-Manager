@@ -1,0 +1,20 @@
+﻿Account Manager
+
+
+winexe
+C#
+.cs
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\
+Account_Manager
+none
+false
+DEBUG;TRACE
+C:\Code\Personal\Account_Manager\Account_Manager\App.xaml
+61165725056
+
+20960587907
+311641796602
+Views\AboutWindow.xaml;Views\AddAccountWindow.xaml;Views\DeleteWindow.xaml;Views\MainWindow.xaml;Views\MasterWindow.xaml;Views\SignUpWindow.xaml;
+
+False
+

@@ -1,0 +1,20 @@
+﻿<Window xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Name="MasterWindow1" x:Class="Account_Manager.Views.MasterWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" WindowStartupLocation="CenterScreen" Visibility="{Binding Visibility, Mode=TwoWay}" Title="" Height="500" Width="300" ResizeMode="NoResize" MinHeight="400" MinWidth="400" Background="#FF9A9EB0" Closing="MasterWindow1_Closing">
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Loaded">
+            <BeginStoryboard>
+                <Storyboard Duration="00:00:3" Storyboard.TargetProperty="Opacity">
+                    <DoubleAnimation From="0.5" To="1" />
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid>
+        
+        <xctk:WatermarkTextBox Name="MasterUsername" Watermark="Master Username" Width="200" Height="25" MaxLength="30" Margin="0 -150 0 0" Text="{Binding CredUsername, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" FontSize="15" Foreground="#FF42BCE0" CaretBrush="#FF42BCE0" TextOptions.TextFormattingMode="Display" FontWeight="Bold" />
+        <xctk:WatermarkTextBox Name="MasterPassword" Watermark="Master Password" Width="200" Height="25" MaxLength="20" Margin="0 -80 0 0" Text="{Binding CredPassword, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" FontSize="15" Foreground="Black" FontWeight="Bold" />
+        <Button Content="Login" HorizontalAlignment="Center" BorderThickness="0" Width="200" Height="25" Margin="0 30 0 0" Command="{Binding ValidateCommand}" />
+        <Button Content="Sign up" BorderThickness="0" Width="61" Margin="0,268,99,175" HorizontalAlignment="Right" Background="#FF9A9EB0" Foreground="#FFC10012" BorderBrush="#FF9A9EB0" Command="{Binding LoadSignWinCommand}" />
+    </Grid>
+</Window>
+
+        

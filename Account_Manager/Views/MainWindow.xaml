@@ -1,0 +1,27 @@
+﻿<Window x:Name="mainWindow" x:Class="Account_Manager.Views.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" WindowStartupLocation="CenterScreen" Visibility="Visible" Height="700" MaxWidth="1366" Width="1000" WindowState="Maximized" Closing="Window_Closing" Background="#FF9A9EB0">
+
+    <StackPanel VerticalAlignment="Top">
+        <Menu Width="Auto" Height="20">
+            <MenuItem x:Name="Add_Account" Header="_Add New" HorizontalAlignment="Left" Width="60" Command="{Binding LoadAddAccountWinCommand}" />
+            <MenuItem x:Name="Update" Header="_Update" Width="50" Command="{Binding UpdateAccountListCommand}" />
+            <MenuItem x:Name="About" Header="_About" HorizontalAlignment="Left" Width="50" Command="{Binding AboutCommand}" />
+            <MenuItem x:Name="Logout" Header="_Logout" Width="50" Command="{Binding LogoutCommand}" CommandParameter="{Binding ElementName=mainWindow}" />
+        </Menu>
+
+        <DataGrid BorderThickness="0" Margin="5 5 5 5" ItemsSource="{Binding Accounts, Mode=OneWay}" IsReadOnly="True" Name="DataGridAccounts" AutoGenerateColumns="False" AlternationCount="2" AlternatingRowBackground="LightCyan" CanUserAddRows="False" FontSize="15" MaxHeight="680" MinHeight="680" ColumnWidth="*" UseLayoutRounding="False" FontWeight="Bold" Background="#FF9A9EB0" GridLinesVisibility="None" AreRowDetailsFrozen="True" SelectionMode="Single" SelectionUnit="Cell">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Username" Binding="{Binding Username, Mode=TwoWay}" Width="*">
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="DataGridCell">
+                            <Setter Property="ToolTip" Value="{Binding AdditionalInfo}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Password" Binding="{Binding Password, Mode=OneWay}" Width="*" />
+                <DataGridTextColumn Header="Email Address" Binding="{Binding Email, Mode=OneWay}" Width="*" />
+                <DataGridTextColumn Header="Account Source" Binding="{Binding AccountSource, Mode=OneWay}" Width="*" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </StackPanel>
+</Window>

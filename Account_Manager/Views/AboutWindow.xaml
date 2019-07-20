@@ -1,0 +1,14 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Class="Account_Manager.Views.AboutWindow" mc:Ignorable="d" Title="" Height="176.545" Width="500" WindowStartupLocation="CenterScreen" Background="#FF9A9EB0">
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Loaded">
+            <BeginStoryboard>
+                <Storyboard Duration="00:00:3" Storyboard.TargetProperty="Opacity">
+                    <DoubleAnimation From="0.5" To="1" />
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid>
+        <TextBlock x:Name="AboutTextBlock" Text="{Binding TextSource, Mode=OneWay}" Width="428" Height="132" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Left" FontSize="20" Margin="0 0 0 0" />
+    </Grid>
+</Window>

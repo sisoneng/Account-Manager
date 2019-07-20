@@ -1,0 +1,16 @@
+﻿<Window x:Name="signUpWindow" xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="Account_Manager.Views.SignUpWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"  mc:Ignorable="d" Title="" ResizeMode="NoResize" Height="500" Width="300" WindowStartupLocation="CenterScreen">
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Loaded">
+            <BeginStoryboard>
+                <Storyboard Duration="00:00:3" Storyboard.TargetProperty="Opacity">
+                    <DoubleAnimation From="0.5" To="1" />
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid Background="#FF9A9EB0">
+        <xctk:WatermarkTextBox x:Name="MasterUsernameTbox" Watermark="Master Username" HorizontalAlignment="Center" Margin="0 -150 0 0" Height="25" Width="200" Text="{Binding SignUp_MasterUsername, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" FontSize="15" FontWeight="Bold" />
+        <xctk:WatermarkTextBox x:Name="MasterPasswordTbox" Watermark="Master Password" HorizontalAlignment="Center" Margin="0 -80 0 0" Height="25" Width="200" Text="{Binding SignUp_MasterPassword, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" FontSize="15" FontWeight="Bold" />
+        <Button Content="Sign Up" BorderThickness="0" HorizontalAlignment="Center" Height="25" Width="200" Margin="0 30 0 0" Command="{Binding SignUpCommand, Mode=OneWay}" CommandParameter="{Binding ElementName=signUpWindow}"/>
+    </Grid>
+</Window>

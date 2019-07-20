@@ -1,0 +1,155 @@
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Password Manager.exe.config
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Password Manager.exe
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Password Manager.pdb
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Microsoft.SDK.Expression.Blend.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Views\AddAccountWindow.baml
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Views\MainWindow.baml
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Views\AddAccountWindow.g.cs
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Views\DeleteWindow.g.cs
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Views\MainWindow.g.cs
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Views\MasterWindow.g.cs
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\App.g.cs
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Password Manager_MarkupCompile.cache
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Password Manager_MarkupCompile.lref
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Views\AboutWindow.baml
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Views\DeleteWindow.baml
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Views\MasterWindow.baml
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Password Manager.g.resources
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Password_Manager.Properties.Resources.resources
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Password Manager.exe
+C:\Users\sisoneng\source\repos2\Account_Manager\Account_Manager\obj\Debug\Password Manager.pdb
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Password Manager.exe.config
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Password Manager.exe
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Password Manager.pdb
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.SDK.Expression.Blend.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\System.Windows.Interactivity.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\System.Windows.Interactivity.xml
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Views\AddAccountWindow.baml
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Views\MainWindow.baml
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Views\AboutWindow.g.cs
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Views\AddAccountWindow.g.cs
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Views\DeleteWindow.g.cs
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Views\MainWindow.g.cs
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Views\MasterWindow.g.cs
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\App.g.cs
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Password Manager_MarkupCompile.cache
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Password Manager_MarkupCompile.lref
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Views\AboutWindow.baml
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Views\DeleteWindow.baml
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Views\MasterWindow.baml
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Password Manager.g.resources
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Password_Manager.Properties.Resources.resources
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Password Manager.exe
+C:\Projects\Personal\Account_Manager\Account_Manager\obj\Debug\Password Manager.pdb
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Account Manager.exe.config
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Account Manager.exe.manifest
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Account Manager.application
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Account Manager.exe
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Account Manager.pdb
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\FontAwesome.WPF.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.SDK.Expression.Blend.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\System.Windows.Interactivity.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\FontAwesome.WPF.xml
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\System.Windows.Interactivity.xml
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Code\Personal\Account_Manager\Account_Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\AboutWindow.baml
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\AddAccountWindow.baml
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\MainWindow.baml
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\MasterWindow.baml
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\SignUpWindow.baml
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\AboutWindow.g.cs
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\AddAccountWindow.g.cs
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\DeleteWindow.g.cs
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\MainWindow.g.cs
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\MasterWindow.g.cs
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\SignUpWindow.g.cs
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\App.g.cs
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager_MarkupCompile.cache
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager_MarkupCompile.lref
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Views\DeleteWindow.baml
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.g.resources
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account_Manager.Properties.Resources.resources
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.exe.manifest
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.application
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.exe
+C:\Code\Personal\Account_Manager\Account_Manager\obj\Debug\Account Manager.pdb
